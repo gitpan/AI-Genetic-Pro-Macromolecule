@@ -1,0 +1,11 @@
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+dist.ini
+lib/AI/Genetic/Pro/Macromolecule.pm
+lib/AI/Genetic/Pro/Macromolecule/Types.pm
+t/basic.t
+t/release-pod-coverage.t
+t/release-pod-syntax.t

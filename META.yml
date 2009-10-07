@@ -1,0 +1,24 @@
+---
+abstract: 'Genetic Algorithms to evolve DNA, RNA and Protein sequences'
+author:
+  - 'Bruno Vecchi <vecchi.b gmail.com>'
+generated_by: 'Dist::Zilla version 1.092680'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: AI-Genetic-Pro-Macromolecule
+requires:
+  AI::Genetic::Pro: 0.341
+  List::Util: 1.21
+  Modern::Perl: 1.03
+  Moose: 0.92
+  MooseX::Throwable: 0.02
+  MooseX::Types: 0.20
+  Test::Exception: 0.27
+  Test::More: 0.94
+  Test::Warn: 0.21
+  namespace::autoclean: 0.09
+resources:
+  repository: http://github.com/brunoV/ai-genetic-pro-macromolecule/
+version: 0.09280.0_001
